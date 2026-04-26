@@ -1,34 +1,25 @@
 # Smart Cloud Blood Network
 
 ## Project Overview
-This project focuses on analyzing blood donation and demand data to improve healthcare resource management. The goal was to identify supply-demand gaps, track high-demand blood groups, and support faster decision-making for blood availability.
+Smart Cloud Blood Network is a cloud-based platform designed to connect blood donors, recipients, and hospitals efficiently. It helps streamline blood requests and improve emergency response.
 
-## Objectives
-- Analyze blood inventory and request patterns
-- Identify high-demand blood groups
-- Detect supply-demand imbalances
-- Improve efficiency in blood availability tracking
+## Features
+- Donor registration and management
+- Blood availability tracking
+- Emergency request system
+- Cloud-based accessibility
+- User-friendly interface
 
-## Tools Used
-- SQL
-- Python
-- Excel / Power BI
-- Data Cleaning Techniques
+## Tech Stack
+- React
+- TypeScript
+- Cloud Integration
+- Database Management
 
-## Key Insights
-- Analyzed 1,000+ healthcare-related records
-- Identified demand-supply gaps across blood groups
-- Improved visibility of inventory levels
-- Reduced search time for blood availability by 80%
+## Purpose
+To create a reliable and scalable solution for blood donation and emergency medical support.
 
-## Business Impact
-This project demonstrates how healthcare analytics can optimize blood resource allocation and improve emergency response systems.
-
-## Files Included
-- SQL Queries
-- Analysis Scripts
-- Dataset
-- Dashboard / Reports
-
-## AI Prediction Enhancement
-Integrated predictive analytics to forecast blood demand trends and improve inventory planning. This AI-driven layer supports proactive decision-making and helps reduce shortages in critical situations.
+## Future Improvements
+- Real-time notifications
+- Mobile app integration
+- AI-powered donor matching
