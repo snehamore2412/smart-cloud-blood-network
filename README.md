@@ -26,19 +26,6 @@ Traditional blood request systems are often slow, fragmented, and difficult to m
 - Mobile application support
 - AI-based donor recommendation
 - Geo-location tracking for nearby donors
-smart-cloud-blood-network/
-│
-├── src/
-│   └── SmartCloudBloodNetwork.tsx
-│
-├── assets/
-│   ├── dashboard-homepage.png
-│   ├── donor-management.png
-│   └── request-system.png
-│
-├── README.md
-├── package.json
-└── LICENSE
 
 ## Author
 Sneha More
