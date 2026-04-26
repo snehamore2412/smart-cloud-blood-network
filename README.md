@@ -1,25 +1,44 @@
 # Smart Cloud Blood Network
 
-## Project Overview
-Smart Cloud Blood Network is a cloud-based platform designed to connect blood donors, recipients, and hospitals efficiently. It helps streamline blood requests and improve emergency response.
+## Overview
+Smart Cloud Blood Network is a cloud-powered healthcare platform that connects blood donors, recipients, and hospitals in real time. It aims to improve emergency blood availability and streamline donor management.
 
-## Features
-- Donor registration and management
-- Blood availability tracking
-- Emergency request system
-- Cloud-based accessibility
-- User-friendly interface
+## Problem Statement
+Traditional blood request systems are often slow, fragmented, and difficult to manage during emergencies. This project addresses those challenges through a centralized digital platform.
+
+## Key Features
+- Donor registration and profile management
+- Real-time blood availability tracking
+- Emergency blood request workflow
+- Hospital coordination dashboard
+- Secure cloud-based data access
 
 ## Tech Stack
 - React
 - TypeScript
-- Cloud Integration
-- Database Management
+- Cloud Services
+- Database Integration
 
-## Purpose
-To create a reliable and scalable solution for blood donation and emergency medical support.
+## Screenshots
+(Add project screenshots here)
 
-## Future Improvements
-- Real-time notifications
-- Mobile app integration
-- AI-powered donor matching
+## Future Scope
+- Mobile application support
+- AI-based donor recommendation
+- Geo-location tracking for nearby donors
+smart-cloud-blood-network/
+│
+├── src/
+│   └── SmartCloudBloodNetwork.tsx
+│
+├── assets/
+│   ├── dashboard-homepage.png
+│   ├── donor-management.png
+│   └── request-system.png
+│
+├── README.md
+├── package.json
+└── LICENSE
+
+## Author
+Sneha More
