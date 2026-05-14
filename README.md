@@ -27,5 +27,3 @@ Traditional blood request systems are often slow, fragmented, and difficult to m
 - AI-based donor recommendation
 - Geo-location tracking for nearby donors
 
-## Author
-Sneha More
